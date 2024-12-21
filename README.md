@@ -20,9 +20,6 @@ I am a dedicated and curious student currently pursuing a Bachelor's degree in *
 - Machine Learning and Data Science projects
 - Deep Learning and NLP applications
 
-## 📫 How to reach me:
-- **Email**: [i232005@isb.nu.edu.pk](mailto:i232005@isb.nu.edu.pk)
-
 ## 😄 Pronouns:
 He/Him
 
